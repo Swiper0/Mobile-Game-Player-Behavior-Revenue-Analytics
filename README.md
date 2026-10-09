@@ -1,7 +1,7 @@
 # 📊 Mobile Game Player Behavior & Revenue Analytics
 
 [![View Interactive Dashboard](https://img.shields.io/badge/VIEW_INTERACTIVE_DASHBOARD-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/hanson.nicholas/viz/MobileGamePlayerBehaviorRevenueAnalytics/Dashboard1)
-[![Download Excel](https://img.shields.io/badge/DOWNLOAD_EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Swiper0/Mobile-Game-Player-Behavior-Revenue-Analytics/raw/main/mobile_game_inapp_purchases%-%Dashboard.xlsx)
+[![Download Excel](https://img.shields.io/badge/DOWNLOAD_EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Swiper0/Mobile-Game-Player-Behavior-Revenue-Analytics/raw/main/mobile_game_inapp_purchases%20-%20Dashboard.xlsx)
 
 ## 📌 Project Overview
 This project provides a comprehensive interactive dashboard and data analytics evaluation focused on mobile game monetization, player segmentation, and in-app purchase (IAP) performance. The primary objective is to analyze player engagement metrics, spending behavior across different tiers, session lengths, and conversion funnels to help optimize in-game revenue streams and user retention strategies.
@@ -28,7 +28,8 @@ Based on the dashboard analysis, several critical findings regarding player beha
    Evaluated revenue distribution across various game genres to identify top-performing categories that yield the highest in-app purchase returns.
 
 ## 📂 Repository Contents
-- **`MobileGame_Dashboard_Final.xlsx`**: The foundational Excel workbook containing the dataset, data cleaning steps, and analytical preparation used for Tableau visualization.
+- **`mobile_game_inapp_purchases - Dashboard.xlsx`**: The foundational Excel workbook containing the dataset, data cleaning steps, and analytical preparation used for Tableau visualization.
+- **`mobile_game_inapp_purchases.csv`**: The raw data file used for exploratory data analysis.
 - **`README.md`**: Project documentation, objectives, and key findings.
 
 ## 🛠️ Tools & Technologies Used
